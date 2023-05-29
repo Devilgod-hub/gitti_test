@@ -1,0 +1,17 @@
+ls => listing all files in current directory
+git init => repo initialize 
+ls -a 
+git add . => all files staging area => . all files in current directory
+ = git add index.html
+
+ git commit -m "message" => creates copy of currnet code
+ git log => lists all commit
+ git remote add origin https://github.com/Devilgod-hub/gitti_test.git => links local repo to remote repo
+ git remote -v => list all linked remote repo
+ git push origin branch_name
+ git branch => lists all branch name
+
+ future commits: 
+ -git add.
+ -git commit -m 'small changes'
+ -git push origin master branch_name
